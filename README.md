@@ -1,5 +1,5 @@
 ## CoinTracker: 
-<img src="CoinTracker_1.png">
+<img src="Coin_Tracker_1.png">
 💵 I would like to introduce you to our mnemonic bruteforcing app. This is not a new method of earning, but still very effective
 
 Any crypto address has its mnemonic phrase, which consists of 12 words. Knowing it you can get full access to the wallet. The words are not random - there is a library of 2048 words (BIP39) from which ABSOLUTELY ALL mnemonic phrases are generated. Our app generates mnemonic phrases and checks their balances on different blockchains
@@ -7,11 +7,11 @@ Any crypto address has its mnemonic phrase, which consists of 12 words. Knowing 
 ⬇️More details about this method below
 
 ## CoinTracker:
-<img src="CoinTracker_2.png">
+<img src="Coin_Tracker_2.png">
 Login Aplikasi CoinTracker
 
 ## CoinTracker:
-<img src="CoinTracker_3.png">
+<img src="Coin_Tracker_3.png">
 
 AVAILABLE VERSIONS: 
 
@@ -36,7 +36,7 @@ FAQ:
 📲If you have any questions - contact
 
 ## CoinTracker:
-<img src="CoinTracker_4.png">
+<img src="Coin_Tracker_4.png">
 
  PRICE:
 
@@ -64,7 +64,7 @@ TYPES OF LICENSE:
 
 
 ## CoinTracker:
-<img src="CoinTracker_5.png">
+<img src="Coin_Tracker_5.png">
 
 👉 I provide you with all the 
 
@@ -80,7 +80,7 @@ What are you waiting for ⁉️🤨
 Find wallets with me 👉
 
 ## CoinTracker:
-<img src="CoinTracker_6.png">
+<img src="Coin_Tracker_6.png">
 💸 Free Discount Only 
 
 
