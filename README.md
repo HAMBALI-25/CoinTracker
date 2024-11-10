@@ -35,8 +35,8 @@ FAQ:
 
 📲If you have any questions - contact
 
-## 1️⃣ Coin Tracker :
-## Video Coin Tracker Result Btc 📺
+## Coin Tracker  📺
+Result Btc 
 
 https://youtu.be/4auMfv_nLuA?feature=shared
 
@@ -67,8 +67,8 @@ TYPES OF LICENSE:
 
 👨‍💻BUY LICENSE
 
-## 2️⃣ Coin Tracker :
-## Video Coin Tracker Result Eth 📺
+## Coin Tracker 📺 
+Result Eth
 
 
 https://youtube.com/shorts/oEkCA45g41Y?feature=shared
@@ -91,6 +91,8 @@ Find wallets with me 👉
 <img src="Coin_Tracker_6.png">
 
 💸 Free Discount Only 
+
+<img src="Promo_Discount_1.png">
 
 
 ### Hi. I'm Hambali Developers 
