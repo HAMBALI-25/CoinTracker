@@ -35,7 +35,12 @@ FAQ:
 
 📲If you have any questions - contact
 
-## Coin Tracker :
+## 1️⃣ Coin Tracker :
+## Video Coin Tracker Result Btc 📺
+
+https://youtu.be/4auMfv_nLuA?feature=shared
+
+
 <img src="Coin_Tracker_4.png">
 
  PRICE:
@@ -62,11 +67,11 @@ TYPES OF LICENSE:
 
 👨‍💻BUY LICENSE
 
+## 2️⃣ Coin Tracker :
+## Video Coin Tracker Result Eth 📺
 
-## 1️⃣ Coin Tracker :
-## Video Coin Tracker Result Btc 📺
 
-https://youtu.be/4auMfv_nLuA?feature=shared
+https://youtube.com/shorts/oEkCA45g41Y?feature=shared
 
 <img src="Coin_Tracker_5.png">
 
@@ -82,12 +87,6 @@ All you need to do IS TO RUN SOFTWARE and wait, usually just a few days, for it 
 What are you waiting for ⁉️🤨
 
 Find wallets with me 👉
-
-## 2️⃣ Coin Tracker :
-## Video Coin Tracker Result Eth 📺
-
-
-https://youtube.com/shorts/oEkCA45g41Y?feature=shared
 
 <img src="Coin_Tracker_6.png">
 
