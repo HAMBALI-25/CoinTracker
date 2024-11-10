@@ -4,11 +4,11 @@
 
 ## Video 📺
 
-[![Youtube](https://img.youtube.com/vi/xhGYobuG508/0.jpg)](https://youtu.be/4auMfv_nLuA?feature=shared)
+[![Youtube](https://youtu.be/4auMfv_nLuA?feature=shared)
 
 ## Video 📺
 
-[![Youtube](https://img.youtube.com/vi/xhGYobuG508/0.jpg)](https://youtube.com/shorts/oEkCA45g41Y?feature=shared)
+[![Youtube](https://youtube.com/shorts/oEkCA45g41Y?feature=shared)
 
 Any crypto address has its mnemonic phrase, which consists of 12 words. Knowing it you can get full access to the wallet. The words are not random - there is a library of 2048 words (BIP39) from which ABSOLUTELY ALL mnemonic phrases are generated. Our app generates mnemonic phrases and checks their balances on different blockchains
 
