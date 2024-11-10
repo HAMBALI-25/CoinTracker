@@ -1,4 +1,4 @@
-## Coin Tracker: 
+## Coin Tracker : 
 <img src="Coin_Tracker_1.png">
 💵 I would like to introduce you to our mnemonic bruteforcing app. This is not a new method of earning, but still very effective
 
@@ -6,11 +6,11 @@ Any crypto address has its mnemonic phrase, which consists of 12 words. Knowing 
 
 ⬇️More details about this method below
 
-## Coin Tracker:
+## Coin Tracker :
 <img src="Coin_Tracker_2.png">
 Login Aplikasi CoinTracker
 
-## Coin Tracker:
+## Coin Tracker :
 <img src="Coin_Tracker_3.png">
 
 AVAILABLE VERSIONS: 
@@ -35,7 +35,7 @@ FAQ:
 
 📲If you have any questions - contact
 
-## Coin Tracker:
+## Coin Tracker :
 <img src="Coin_Tracker_4.png">
 
  PRICE:
@@ -63,7 +63,11 @@ TYPES OF LICENSE:
 👨‍💻BUY LICENSE
 
 
-## Coin Tracker:
+## 1️⃣ Coin Tracker :
+## Video Coin Tracker Result Btc 📺
+
+https://youtu.be/4auMfv_nLuA?feature=shared
+
 <img src="Coin_Tracker_5.png">
 
 👉 I provide you with all the 
@@ -79,19 +83,16 @@ What are you waiting for ⁉️🤨
 
 Find wallets with me 👉
 
-## Coin Tracker:
-<img src="Coin_Tracker_6.png">
-💸 Free Discount Only 
+## 2️⃣ Coin Tracker :
+## Video Coin Tracker Result Eth 📺
 
-## Video Coin Tracker YouTube 📺
-Result Btc
-
-https://youtu.be/4auMfv_nLuA?feature=shared
-
-## Video Coin Tracker YouTube 📺 
-Result Eth
 
 https://youtube.com/shorts/oEkCA45g41Y?feature=shared
+
+<img src="Coin_Tracker_6.png">
+
+💸 Free Discount Only 
+
 
 ### Hi. I'm Hambali Developers 
 
